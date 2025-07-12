@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [],
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "start_pool": ""
+}
